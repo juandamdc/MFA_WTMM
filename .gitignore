@@ -1,0 +1,9 @@
+# misc
+__pycache__
+.vscode
+
+# the db
+JSRT_Database/*
+
+# the trained models
+TrainedModels/*
